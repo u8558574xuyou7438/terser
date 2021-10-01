@@ -44,7 +44,7 @@
   "dependencies": {
     "commander": "^2.20.0",
     "source-map": "~0.7.2",
-    "source-map-support": "~0.5.19"
+    "source-map-support": "~0.5.20"
   },
   "devDependencies": {
     "@ls-lint/ls-lint": "^1.9.2",
